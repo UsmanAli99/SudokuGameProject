@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484762939 source:c:\users\usman ali\desktop\sudoku game project\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+
